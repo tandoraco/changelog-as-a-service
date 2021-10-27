@@ -4,3 +4,4 @@ Try [Tandora Changelog](https://tandora.co/changelog) as a service. It is offere
 ## Useful links
 
 - [Signup for free trial](https://app.tandora.co/signup)
+- [Our changelog](https://app.tandora.co/tandora)
